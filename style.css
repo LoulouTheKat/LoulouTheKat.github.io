@@ -7,7 +7,7 @@ html {
   }
 
   header {
-    background: purple;
+    background: #92AA83;
     height: 100px;
   }
 
@@ -21,5 +21,10 @@ html {
   article {
     padding: 10px;
     margin: 10px;
-    background: aqua;
+    background: #E0EDC5;
+  }
+
+  section {
+    display: flex;
+    text-align: justify;
   }
