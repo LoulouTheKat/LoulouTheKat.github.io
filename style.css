@@ -27,4 +27,5 @@ html {
   section {
     display: flex;
     text-align: justify;
+    flex-wrap: wrap;
   }
