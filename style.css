@@ -7,8 +7,9 @@ body {
 }
 
 header {
-  background: purple;
+  background: #0353A4;
   height: 100px;
+  color: wheat;
 }
 
 h1 {
@@ -21,7 +22,7 @@ h1 {
 article {
   padding: 10px;
   margin: 10px;
-  background: aqua;
+  background: #B9D6F2;
   flex: 200px;
 }
 
